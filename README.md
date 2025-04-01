@@ -1,2 +1,2 @@
 # here-probe
-HERE Chicago Hackathon
+HERE Chicago Hackathon 2024
